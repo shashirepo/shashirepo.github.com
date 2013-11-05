@@ -228,7 +228,7 @@ function createInstructions() {
 
     text = document.createElement('div');
     text.onSelectStart = null;
-    text.innerHTML = '<span style="color:' + theme[0] + ';font-size:40px;">Hey!</span><br /><br /><span style="font-size:15px;"><strong>Thanks for landing by</strong><br /><br />1. <a href="http://about.me/shashitechno">About.me</a><br />2. <a href="https://moodle.org/user/profile.php?id=1565325"> M.O. Profile</a><br />3. <a href="http://shashitechno.wordpress.com">Blog</a><br />4. <a href="https://github.com/shashirepo">Github</a><br />5. <a href ="http://en.wikipedia.org/wiki/User:Shashikant_fosslover">Wiki</a></span><br />5. <a href ="in.linkedin.com/in/shashitechno">Linkedin</a></span>';
+    text.innerHTML = '<span style="color:' + theme[0] + ';font-size:40px;">Hey!</span><br /><br /><span style="font-size:15px;"><strong>Thanks for landing by</strong><br /><br />1. <a href="http://about.me/shashitechno">About.me</a><br />2. <a href="https://moodle.org/user/profile.php?id=1565325"> M.O. Profile</a><br />3. <a href="http://shashitechno.wordpress.com">Blog</a><br />4. <a href="https://github.com/shashirepo">Github</a><br />5. <a href ="http://en.wikipedia.org/wiki/User:Shashikant_fosslover">Wiki</a></span><br />5. <a href ="http://in.linkedin.com/in/shashitechno">Linkedin</a></span>';
     text.style.color = theme[1];
     text.style.position = 'absolute';
     text.style.left = '0px';
